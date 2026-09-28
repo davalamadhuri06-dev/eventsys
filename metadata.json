@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere",
+  "description": "Creative, interactive and collaborative event management platform with team building, live event sessions, collaboration rooms, and gamified passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
